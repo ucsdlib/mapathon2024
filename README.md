@@ -22,6 +22,4 @@ Join us for the whole event or drop in as your schedule allows. Snacks and treat
 ## What to expect once the Map-a-thon begins
 We will be giving brief tutorials/workshops to get people up to speed and we will have volunteers on hand to get you started and answer questions.
 
-The project we will be mapping is:  [ [#15182 Open Mapping Hub Asia-Pacific-- MULTAN, SOUTHERN PUNJAB, PAKISTAN- BUILDING MAPPING](https://tasks.hotosm.org/projects/15182/tasks)
-
-_The emerging OSM Pakistan Community targets to map Southern Punjab in the following months. Multan is a city oon the Chenab River home to 1.872 million people. It is identifed to have high risk of flooding and earthquake liquefaction. Mapping the buildings in these cities will be able to prepare geospatial data for disaster and climate change resiliency planning._ ]: #
+The project we will be mapping will be shared closer to UC GIS Week.
