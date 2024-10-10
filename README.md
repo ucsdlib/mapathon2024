@@ -1,7 +1,7 @@
 # UC GIS Week 2024 Mapathon
 Each year, disasters around the world affect or displace 200 million people. Many of the places where these disasters occur are literally ‘missing’ from open and accessible maps and first responders lack the information to make valuable decisions regarding relief efforts.
 
-Join the us for a University of California Mapathon as a part of [UC GIS Week](https://uc-gis-ucop.hub.arcgis.com/pages/uc-gis-week-2043). This mapping event will support the [Missing Maps](https://www.missingmaps.org/) project. Missing Maps asks for volunteers worldwide to map vulnerable areas before disaster or crisis strikes to reduce risk and speed recovery efforts. We’ll work together to trace buildings and roads from satellite images, for example; then, humanitarian groups on the ground will add the details and create maps with our data.
+Join the us for a University of California Mapathon as a part of [UC GIS Week](https://uc-gis-ucop.hub.arcgis.com/pages/uc-gis-week-2024). This mapping event will support the [Missing Maps](https://www.missingmaps.org/) project. Missing Maps asks for volunteers worldwide to map vulnerable areas before disaster or crisis strikes to reduce risk and speed recovery efforts. We’ll work together to trace buildings and roads from satellite images, for example; then, humanitarian groups on the ground will add the details and create maps with our data.
 
 No experience or special skills are required. This is a **Bring Your Own Device** event. Bring your own laptops and chargers.
 
