@@ -5,7 +5,7 @@ Join the us for a University of California Mapathon as a part of [UC GIS Week](h
 
 No experience or special skills are required. This is a **Bring Your Own Device** event. Bring your own laptops and chargers.
 
-Join us for the whole event or drop in as your schedule allows. Snacks and treats will be provided. 
+This asynchronous event will run Monday, November 18 - Friday, November 22. Let's see which UC campus can make the most contributions.
 
 # Map-a-thon Toolkit #
 ## What to do before the Map-a-thon
@@ -23,3 +23,5 @@ Join us for the whole event or drop in as your schedule allows. Snacks and treat
 We will be giving brief tutorials/workshops to get people up to speed and we will have volunteers on hand to get you started and answer questions.
 
 The project we will be mapping will be shared closer to UC GIS Week.
+
+## Track your campus contributions
