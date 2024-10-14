@@ -5,7 +5,7 @@ Join the us for a University of California Mapathon as a part of [UC GIS Week](h
 
 No experience or special skills are required. This is a **Bring Your Own Device** event. Bring your own laptops and chargers.
 
-Join us for the whole event or drop in as your schedule allows. Snacks and treats will be provided. Tell us you're coming by [**registering**](https://www.eventbrite.com/e/uc-gis-week-mapathon-at-uc-san-diego-tickets-745499026657?aff=oddtdtcreator) today!
+Join us for the whole event or drop in as your schedule allows. Snacks and treats will be provided. 
 
 # Map-a-thon Toolkit #
 ## What to do before the Map-a-thon
