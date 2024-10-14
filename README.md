@@ -14,8 +14,8 @@ This asynchronous event will run Monday, November 18 - Friday, November 22. Let'
 * Get an [HOTOSM account](https://tasks.hotosm.org/login). You will use to participate in the Mapathon by contributing to humanitarian mapping projects.
 
 **Tutorials and Guides**
-* [Online Tutorial](https://slides.com/amywork/ucsd-mapathon-2023-ucgisweek) made specifically for the Mapathon
-* [Mapathon Quick Guide](https://docs.google.com/document/d/1-OMJ0y6-xYml0VSBgfoGKYkuKd0Np3RuYH6pLBRISiU/edit?usp=sharing)
+* [Online Tutorial](https://slides.com/amywork/ucgisweek-mapathon-2024) made specifically for the Mapathon
+* [Mapathon Quick Guide](https://docs.google.com/document/d/17k6HEJpWDA3r_ADURs-bpaVBA9Ra3kbP1T6BBYxLnwM/edit?usp=sharing)
 * [OSM Video](https://youtu.be/nswUcgMfKTM) on how to use the task manager.
 * [HOT OSM Quick Start Guide](https://tasks.hotosm.org/learn/quickstart)
 
@@ -25,3 +25,18 @@ We will be giving brief tutorials/workshops to get people up to speed and we wil
 The project we will be mapping will be shared closer to UC GIS Week.
 
 ## Track your campus contributions
+To track your contributions to a campus, you'll need to add a _#hashtag_. Use the following #hashtags:
+
+| Campus    | #hashtag |
+| -------- | ------- |
+| ANR	   	 |   #ucgisweek24_ucanr|
+| Berkeley 	|    #ucgisweek24_ucb|
+| Davis  	|    #ucgisweek24_ucd|
+| Merced  |    #ucgisweek24_ucm|
+| Los Angeles   |	    #ucgisweek4_ucla|
+| Irvine    |		    #ucgisweek24_uci|
+| Riverside  |    #ucgisweek24_ucr|
+| Santa Barbara  |   #ucgisweek24_ucsb |
+| San Diego    |	    #ucgisweek24_ucsd |
+| Santa Cruz    |  #ucgisweek24_ucsc |
+| San Francisco  |    #ucgisweek24_ucsf |
