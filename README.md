@@ -3,9 +3,11 @@ Each year, disasters around the world affect or displace 200 million people. Man
 
 Join the us for a University of California Mapathon as a part of [UC GIS Week](https://uc-gis-ucop.hub.arcgis.com/pages/uc-gis-week-2024). This mapping event will support the [Missing Maps](https://www.missingmaps.org/) project. Missing Maps asks for volunteers worldwide to map vulnerable areas before disaster or crisis strikes to reduce risk and speed recovery efforts. We’ll trace buildings and roads from satellite images, for example; then, humanitarian groups on the ground will add the details and create maps with our data.
 
-No experience or special skills are required. This is a **Bring Your Own Device** event. Bring your own laptops and chargers.
+No experience or special skills are required!
 
-This asynchronous event will run Monday, November 18 - Friday, November 22. Let's see which UC campus can make the most contributions.
+This asynchronous event will run Monday, November 18 - Friday, November 22. Some campuses may offer an in-person event. 
+
+Let's see which UC campus can make the most contributions.
 
 The project we will be mapping will be shared closer to UC GIS Week.
 
@@ -26,6 +28,7 @@ The project we will be mapping will be shared closer to UC GIS Week.
 Follow the information in the [Mapathon Quick Guide](https://docs.google.com/document/d/17k6HEJpWDA3r_ADURs-bpaVBA9Ra3kbP1T6BBYxLnwM/edit?usp=sharing)
 
 **In-Person Event**
+If your campus is hosting an in-person event, you will want to **bring your own laptops and chargers**.
 Instructions will be provide and volunteers will be on hand to get you started and answer questions.
 
 The project we will be mapping will be shared closer to UC GIS Week.
