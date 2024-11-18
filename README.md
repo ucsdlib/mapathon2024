@@ -9,7 +9,7 @@ This asynchronous event will run Monday, November 18 - Friday, November 22. Some
 
 Let's see which UC campus can make the most contributions.
 
-The project we will be mapping will be shared closer to UC GIS Week.
+This year we will be mapping [Project #18028: Buildings in Sokoto State, Nigeria](https://tasks.hotosm.org/projects/18028.)
 
 # Map-a-thon Toolkit #
 ## What to do before the Map-a-thon
