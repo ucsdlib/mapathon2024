@@ -9,7 +9,7 @@ This asynchronous event will run Monday, November 18 - Friday, November 22. Some
 
 Let's see which UC campus can make the most contributions.
 
-This year we will be mapping [Project #18028: Buildings in Sokoto State, Nigeria](https://tasks.hotosm.org/projects/18028.)
+This year we will be mapping [Project #18028: Buildings in Sokoto State, Nigeria](https://tasks.hotosm.org/projects/18028)
 
 # Map-a-thon Toolkit #
 ## What to do before the Map-a-thon
@@ -31,7 +31,10 @@ Follow the information in the [Mapathon Quick Guide](https://docs.google.com/doc
 If your campus is hosting an in-person event, you will want to **bring your own laptops and chargers**.
 Instructions will be provide and volunteers will be on hand to get you started and answer questions.
 
-The project we will be mapping will be shared closer to UC GIS Week.
+## Project
+This year we will be mapping [Project #18028: Buildings in Sokoto State, Nigeria](https://tasks.hotosm.org/projects/18028)
+[![Project #18028:  Buildinggs in Sokoto State, Nigeria](https://github.com/user-attachments/assets/1aaad025-1f68-46aa-8709-3dcc1765ddf0)](https://tasks.hotosm.org/projects/18028)
+
 
 ## Track your campus contributions
 To track your contributions to a campus, you'll need to add a _#hashtag_. Use the following #hashtags:
